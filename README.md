@@ -1,6 +1,6 @@
-# QNET Discord Bot
+# Welcome to the QNET Discord Bot Repo.
 
-The Discord Bot that connects to the QNET API and handles users bans.
+This repositority is for the Discord Bot that connects to the QNET API and handles users bans. Feel free to install using the instructions below and use it!
 
 
 ### IMPORTANT NOTE
