@@ -1,0 +1,26 @@
+{
+  "name": "qnet-discord-bot",
+  "version": "1.0.0",
+  "description": "The QNET Discord BBot to handle user bans.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EramsorGR/qnet-discord-bot.git"
+  },
+  "keywords": [
+    "qnet"
+  ],
+  "author": "Nicholas S. (EramsorGR)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EramsorGR/qnet-discord-bot/issues"
+  },
+  "homepage": "https://github.com/EramsorGR/qnet-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "node-fetch": "^2.6.0"
+  }
+}
