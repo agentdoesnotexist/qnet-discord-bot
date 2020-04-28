@@ -27,7 +27,8 @@
 */
 
 const nodefetch = require('node-fetch');
-const bot = require('discord.js');
+const Discord = require('discord.js');
+const bot = new Discord.Client()
 const config = require('./config.json');
 
 //Run this function
