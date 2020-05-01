@@ -1,3 +1,5 @@
+**This is a fork of EramsorGR's qNet Discord Bot. The repository has since been deleted, and as such this is not maintained.**
+
 # Welcome to the QNET Discord Bot Repo.
 
 This repositority is for the Discord Bot that connects to the QNET API and handles users bans. Feel free to install using the instructions below and use it!
